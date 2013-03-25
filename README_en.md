@@ -38,7 +38,7 @@
   * "Neighbor Next Door" - for chasing 5 summits on VHF/UHF amateur bands from outside of SP
   * "Eagle Hunter" - for chasing 5 different summits of SP/TA region
   * "Five By Ten" - for 5 chaser QSOs on 10 meters band
-  * "Short Five" - for 5 chaser QSOs on HF bands (from 160 to 10 meters) from within SP
+  * "Short Five" - for 5 chaser QSOs on HF bands (from 80 to 10 meters) from within SP
   * "....." - for 5 chases using CW mode
   * "101" - for 5 chases using digital modes
 1. The award claims can be made no later than April 30th, 2014, per E-mail, at awards(at)sota-sp.org
@@ -52,6 +52,6 @@
 SOTA reference of the chased summit.
 1. The organizer reserves the right to verify award claims with the data submitted to [sotadata.org.uk](http://sotadata.org.uk/)
 1. The Award Managers on behalf of SOTA SP are:
- * Tomasz SQ9OZH sq9ozh(at)sota-sp.org
+ * Tomasz SQ9OZH sota(at)sq9ozh.pl
  * Marcin SQ9OZM sq9ozm(at)tigana.pl
 1. The final interpretation of the award rules is the authority of the organizer.

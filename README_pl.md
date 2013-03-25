@@ -38,7 +38,7 @@
   * "Ultra Sąsiad Zza Miedzy" - za złowienie co najmniej 5 szczytów na pasmach UKF (6m, 4m, 2m, 70cm, 13cm) - dla łowców zza zagranicy
   * "Łowca Orłów" - za złowienie 5 różnych szczytów z regionu SP/TA (Tatry)
   * "Piąte przez dziesiąte" - za 5 łączności z aktywatorami na paśmie 10m
-  * "Krótka piątka" - za 5 łączności z terytorium SP z aktywatorami na pasmach KF (od 160m do 10m)
+  * "Krótka piątka" - za 5 łączności z terytorium SP z aktywatorami na pasmach KF (od 80m do 10m)
   * "....." - za złowienie 5 szczytów emisją CW
   * "101" - za złowienie 5 szczytów emisją cyfrową
 1. Zgłoszenia do dyplomu mogą być nadsyłane do 30 kwietnia 2014 r. włącznie, na adres E-mail: awards(at)sota-sp.org
@@ -51,6 +51,6 @@
 1. Potwierdzeniem łączności w celu uzyskania dyplomu w kategorii łowców jest przesłanie  wraz ze zgłoszeniem logu dokumentującego wykonane łączności, w postaci papierowej lub elektronicznej, w formacie ADIF lub CSV (plik wyeksportowany z serwisu [sotadata.org.uk](http://sotadata.org.uk/)). Log powinien zawierać  następujące dane: znak stacji, datę i godzinę (czas UTC) łączności, pasmo, rodzaj emisji, znak korespondenta (stacji aktywującej szczyt), numer referencyjny szczytu.
 1. Wydawca dyplomu  zastrzega możliwość weryfikacji zgłoszeń z logami zamieszczonymi w serwisie internetowym programu SOTA pod adresem [sotadata.org.uk](http://sotadata.org.uk/)
 1. Managerami dyplomu z ramienia SOTA SP są:
- * Tomasz SQ9OZH sq9ozh(at)sota-sp.org
+ * Tomasz SQ9OZH sota(at)sq9ozh.pl
  * Marcin SQ9OZM sq9ozm(at)tigana.pl
 1. Ostateczna interpretacja zapisów niniejszego regulaminu należy do wydawcy dyplomu.
