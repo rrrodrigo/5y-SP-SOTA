@@ -52,6 +52,6 @@
 SOTA reference of the chased summit.
 1. The organizer reserves the right to verify award claims with the data submitted to [sotadata.org.uk](http://sotadata.org.uk/)
 1. The Award Managers on behalf of SOTA SP are:
- * Tomasz SQ9OZH sota(at)sq9ozh.pl
- * Marcin SQ9OZM sq9ozm(at)tigana.pl
+ * Tomasz SQ9OZH 5ysotasp(at)sq9ozh.pl
+ * Marcin SQ9OZM sq9ozm(at)sota-sp.org
 1. The final interpretation of the award rules is the authority of the organizer.
