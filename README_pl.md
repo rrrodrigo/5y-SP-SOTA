@@ -51,6 +51,6 @@
 1. Potwierdzeniem łączności w celu uzyskania dyplomu w kategorii łowców jest przesłanie  wraz ze zgłoszeniem logu dokumentującego wykonane łączności, w postaci papierowej lub elektronicznej, w formacie ADIF lub CSV (plik wyeksportowany z serwisu [sotadata.org.uk](http://sotadata.org.uk/)). Log powinien zawierać  następujące dane: znak stacji, datę i godzinę (czas UTC) łączności, pasmo, rodzaj emisji, znak korespondenta (stacji aktywującej szczyt), numer referencyjny szczytu.
 1. Wydawca dyplomu  zastrzega możliwość weryfikacji zgłoszeń z logami zamieszczonymi w serwisie internetowym programu SOTA pod adresem [sotadata.org.uk](http://sotadata.org.uk/)
 1. Managerami dyplomu z ramienia SOTA SP są:
- * Tomasz SQ9OZH sota(at)sq9ozh.pl
- * Marcin SQ9OZM sq9ozm(at)tigana.pl
+ * Tomasz SQ9OZH 5ysotasp(at)sq9ozh.pl
+ * Marcin SQ9OZM sq9ozm(at)sota-sp.org
 1. Ostateczna interpretacja zapisów niniejszego regulaminu należy do wydawcy dyplomu.
