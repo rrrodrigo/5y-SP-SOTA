@@ -1,4 +1,4 @@
-# "5th Anniversary of SOTA in Poland - Award Rules"
+# "5th Anniversary of SOTA in Poland" - Award Rules
 
 1. The award "5th Anniversary of SOTA in Poland" is organized by SOTA SP Association
 1. The award has 2 categories:
