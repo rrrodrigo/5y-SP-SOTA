@@ -4,5 +4,4 @@
 ### HAM Award "5th Anniversary of SOTA in Poland"
 ### Dyplom radioamatorski "V rocznica programu SOTA ('Góry w Eterze') w Polsce"
 
-  * [Award rules in English](README_en.md)
-  * [Regulamin dyplomu / Award rules in Polish](README_pl.md)
+  * for info on the award check [SOTA SP Awards page](http://sota-sp.org)
